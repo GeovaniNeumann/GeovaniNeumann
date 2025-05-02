@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📂 **Projetos em Destaque**  
-🔹 **[Meu Portfólio](https://geovanineumann.github.io/)** - Site pessoal desenvolvido com HTML e CSS  
+🔹 **[Meu Portfólio](Portifolioindex.html)** - Site pessoal desenvolvido com HTML e CSS  
 🔹 **[Em Breve]()** - Projetos futuros serão adicionados aqui!  
 
 ### 📊 **GitHub Stats**  
