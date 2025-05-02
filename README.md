@@ -22,7 +22,7 @@
 ### 📌 **Projetos**  
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| **Portfólio** | Site profissional com design responsivo | [GitHub Pages](https://GeovaniNeumann.github.io/) |
+| **Portfólio** | Site profissional com design responsivo | [GitHub Pages](https://geovanineumann.github.io/) |
 | *Em breve...* | Projetos de estudo em JavaScript | 🚧 |
 
 ---
