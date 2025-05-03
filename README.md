@@ -5,25 +5,11 @@
 
 ---
 
-## 🚀 **Portfólio Principal**  
-[![Portfólio Geovani Neumann](https://img.shields.io/badge/🔗_Acesse_Meu_Portfólio-0A66C2?style=for-the-badge)](https://geovanineumann.github.io/)  
-*(Site pessoal desenvolvido com HTML, CSS e JavaScript puro)*  
-
----
-
 ### 🛠 **Tecnologias**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📌 **Projetos**  
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| **Portfólio** | Site profissional com design responsivo | [GitHub Pages](https://geovanineumann.github.io/) |
-| *Em breve...* | Projetos de estudo em JavaScript | 🚧 |
 
 ---
 
@@ -34,7 +20,7 @@
 ---
 
 ### 📫 **Contato**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanefr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanefr@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Geovani,%20vim%20pelo%20seu%20GitHub!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovani-neumann-7a88b0294)
 
 ---
