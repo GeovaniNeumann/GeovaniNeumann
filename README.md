@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 **Tecnologias que Domino**
+### 🛠 **Tecnologias que estou aprendendo**
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=30" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
