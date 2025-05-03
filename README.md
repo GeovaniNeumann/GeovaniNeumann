@@ -6,8 +6,8 @@
 
 ![Linha decorativa](https://i.imgur.com/dBaSKWF.gif)
 
-**🎯 Desenvolvedor Front-end em formação | 🌐 Especialista em HTML, CSS & JavaScript**  
-📍 Curitiba, PR - Brasil | 🏆 Futuro Full-Stack Developer
+**🎯 Analista de sistemas | Desenvolvedor Front-end em formação | 🌐 Cursando HTML, CSS & JavaScript**  
+  📍Curitiba, PR - Brasil | 🏆 Futuro Desenvolvedor Front-end.
 
 </div>
 
@@ -43,11 +43,7 @@
 
 ---
 
-<div align="center" style="margin:40px 0; display:flex; justify-content:center; align-items:center; gap:10px; background:#0d1117; padding:15px; border-radius:10px; border-left:4px solid #0A66C2">
-  <span style="font-size:1.5em">"</span>
-  <p style="margin:0; font-size:1.1em; font-style:italic; color:#f0f6fc">
-    Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende.
-  </p>
-  <span style="font-size:1.5em">"</span>
-  <p style="margin:0; color:#0A66C2; font-weight:bold">— Leonardo da Vinci</p>
+<div align="center" style="margin-top:40px; font-size:1.2em; font-style:italic; color:#0A66C2">
+  "Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."<br>
+  <strong>— Leonardo da Vinci</strong>
 </div>
