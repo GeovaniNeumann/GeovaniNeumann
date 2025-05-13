@@ -2,7 +2,7 @@
   
 # Geovani Neumann 
 
-### ✨ _Transformando código em experiências digitais_
+###  _Transformando código em experiências digitais_
 
 **🎯 Analista de sistemas | Desenvolvedor Front-end em formação | 🌐 Cursando HTML, CSS & JavaScript**  
   📍Curitiba, PR - Brasil | 🏆 Futuro Desenvolvedor Front-end.
