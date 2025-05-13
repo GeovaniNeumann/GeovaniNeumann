@@ -1,10 +1,8 @@
 <div align="center">
   
-# 🚀 Geovani Neumann 
+# Geovani Neumann 
 
 ### ✨ _Transformando código em experiências digitais_
-
-![Linha decorativa](https://i.imgur.com/dBaSKWF.gif)
 
 **🎯 Analista de sistemas | Desenvolvedor Front-end em formação | 🌐 Cursando HTML, CSS & JavaScript**  
   📍Curitiba, PR - Brasil | 🏆 Futuro Desenvolvedor Front-end.
